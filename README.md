@@ -8,6 +8,7 @@
 <p>🌐 Conhecimentos: HTML, CSS, um pouco de JavaScript</p>
 <h4>Estou sempre buscando aprender e melhorar minhas habilidades em desenvolvimento. Aqui você encontrará alguns dos meus projetos e estudos. Sinta-se à vontade para explorar e colaborar!</h4>
 <h4><a href="[pagina2. html](https://www.linkedin.com/in/kayan-roberto-santiago-a11b34214/)">Clique aqui caso queira entrar en contato comigo </a> </h4>
+https://www.linkedin.com/in/kayan-roberto-santiago-a11b34214/
 
 
 <!--
