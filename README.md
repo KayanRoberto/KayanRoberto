@@ -2,8 +2,8 @@
 
 <h1>Olá, eu sou Kayan 👋</h1>
 
-<p>🌟 Idade: 20 anos</p>
-<p>💼 Jovem Aprendiz em Suporte de TI na empresa Gringo🚘</p>
+<p>🌟 Idade: 21 anos</p>
+<p>💼 Suporte de TI e Web developer</p>
 <p>📚 Estudando: SQL e Python</p>
 <p>🌐 Conhecimentos: HTML, CSS, um pouco de JavaScript</p>
 <h4>Estou sempre buscando aprender e melhorar minhas habilidades em desenvolvimento. Aqui você encontrará alguns dos meus projetos e estudos. Sinta-se à vontade para explorar e colaborar!</h4>
