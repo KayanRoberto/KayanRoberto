@@ -7,10 +7,8 @@
 <p>📚 Estudando: Sitema de informações 7/8 </p>
 <p>Cursos extracurricilares: No momento estudandp JavaScript e Python</p>
 <p>🌐 Conhecimentos: HTML, CSS, Python e MySQL</p>
-<h4>Estou sempre buscando aprender e melhorar minhas habilidades em desenvolvimento. Aqui você encontrará alguns dos meus projetos e estudos. Sinta-se à vontade para explorar e colaborar!</h4>
-<h4><a href="[pagina2. html](https://www.linkedin.com/in/kayan-roberto-santiago-a11b34214/)">Clique aqui caso queira entrar em contato comigo </a> </h4>
-<h4>📧Email:kayan.robertosantiago04@gmail.com</h4>
 
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
