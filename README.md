@@ -9,7 +9,6 @@
 <p>🌐 Conhecimentos: HTML, CSS, Python e MySQL</p>
 <h4>Estou sempre buscando aprender e melhorar minhas habilidades em desenvolvimento. Aqui você encontrará alguns dos meus projetos e estudos. Sinta-se à vontade para explorar e colaborar!</h4>
 <h4><a href="[pagina2. html](https://www.linkedin.com/in/kayan-roberto-santiago-a11b34214/)">Clique aqui caso queira entrar em contato comigo </a> </h4>
-<h4>📞Telefone: 11961056032 </h4>
 <h4>📧Email:kayan.robertosantiago04@gmail.com</h4>
 
 
