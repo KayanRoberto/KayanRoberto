@@ -4,9 +4,9 @@
 
 <p>🌟 Idade: 21 anos</p>
 <p>💼 Suporte de TI e Web developer</p>
-<p>📚 Estudando: Sitema de informações 7/8 </p>
-<p>Cursos extracurricilares: No momento estudandp JavaScript e Python</p>
-<p>🌐 Conhecimentos: HTML, CSS, Python e MySQL</p>
+<p>📚 Estudando: Sitema de informações - UNICID Universidade Cidade de São Paulo 8/8 </p>
+<p>Cursos extracurricilares: No momento estudando JavaScript e Python</p>
+<p>🌐 Conhecimentos: HTML, CSS, Python, JavaScript e MySQL</p>
 
 ##
 
